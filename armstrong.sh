@@ -12,4 +12,4 @@ if [ $arm -eq "$temp" ]; then
 else
 	echo "Not Armstrong"
 fi
-echo " Checking complete for amrstrong/not armstron"
+echo " Checking complete for amrstrong/not armstrong"
