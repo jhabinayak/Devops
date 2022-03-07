@@ -12,4 +12,4 @@ if [ $arm -eq "$temp" ]; then
 else
 	echo "Not Armstrong"
 fi
-echo " Checking complete wiht changes webhook for amrstrong- not armstrong"
+echo " changes webhook for amrstrong- not armstrong"
