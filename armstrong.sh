@@ -8,7 +8,8 @@ while [ "$n" -ne 0 ]; do
 done
 echo $arm
 if [ $arm -eq "$temp" ]; then
-	echo "Armstrong"
+	echo "Armstrong "
 else
 	echo "Not Armstrong"
 fi
+echo " Checking complete "
