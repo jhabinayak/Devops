@@ -12,4 +12,4 @@ if [ $arm -eq "$temp" ]; then
 else
 	echo "Not Armstrong"
 fi
-echo " Final changes"
+echo " Final changes - one more"
